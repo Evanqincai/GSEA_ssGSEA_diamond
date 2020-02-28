@@ -1,0 +1,1 @@
+gseapy gsea -d /lustre/rdi/user/licq/research/RNA_seq/ssGSEA/GSEApy/demo_FPKM.del2.txt -c /lustre/rdi/user/licq/research/RNA_seq/ssGSEA/GSEApy/demo.cls -g /lustre/rdi/user/licq/research/RNA_seq/ssGSEA/GSEApy/database/c2.cp.kegg.v6.2.symbols.gmt -o test_gsea -m log2_ratio_of_classes

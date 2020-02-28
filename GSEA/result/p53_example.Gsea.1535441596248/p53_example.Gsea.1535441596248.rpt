@@ -1,0 +1,34 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1535441596248
+param	collapse	true
+param	cls	demo_data/P53.cls
+param	plot_top_x	20
+param	norm	meandiv
+param	save_rnd_lists	false
+param	median	false
+param	num	100
+param	scoring_scheme	weighted
+param	make_sets	true
+param	mode	Max_probe
+param	gmx	demo_data/c2.cp.kegg.v6.2.symbols.gmt
+param	gui	false
+param	chip	demo_data/HG_U95Av2.chip
+param	metric	Signal2Noise
+param	rpt_label	p53_example
+param	help	false
+param	order	descending
+param	out	/lustre/rdi/user/licq/research/RNA-seq/GSEA/result
+param	create_svgs	false
+param	permute	phenotype
+param	rnd_type	no_balance
+param	set_min	15
+param	include_only_symbols	true
+param	sort	real
+param	create_gcts	false
+param	rnd_seed	timestamp
+param	nperm	1000
+param	zip_report	false
+param	set_max	500
+param	res	/lustre/rdi/user/licq/research/RNA-seq/GSEA/demo_data/P53_hgu95av2.gct
+
+file	result/p53_example.Gsea.1535441596248/index.html

@@ -1,0 +1,802 @@
+LINE 597 : 2018-09-29 11:35:13,730 [INFO    ] Parsing data files for ssGSEA...........................
+LINE 563 : 2018-09-29 11:35:14,572 [WARNING ] Warning: dropping duplicated gene names, only keep the first values
+LINE 567 : 2018-09-29 11:35:14,657 [WARNING ] Warning: Input data contains NA, filled NA with 0
+LINE 144 : 2018-09-29 11:35:16,598 [INFO    ] User Defined gene sets is given.......continue..........
+LINE 130 : 2018-09-29 11:35:27,214 [INFO    ] 0017 gene_sets have been filtered out when max_size=2000 and min_size=15
+LINE 604 : 2018-09-29 11:35:27,214 [INFO    ] 0169 gene_sets used for further statistical testing.....
+LINE 608 : 2018-09-29 11:35:27,215 [INFO    ] Start to run ssGSEA...Might take a while................
+LINE 614 : 2018-09-29 11:35:27,215 [INFO    ] run ssGSEA with permutation procedure, might take a while
+LINE 630 : 2018-09-29 11:35:27,220 [INFO    ] Run Sample: s0_1_H52JYCCXY_L2 
+LINE 456 : 2018-09-29 11:35:27,227 [DEBUG   ] Start to compute enrichment scores......................
+LINE 480 : 2018-09-29 11:35:27,227 [DEBUG   ] Start to compute es and esnulls........................
+LINE 564 : 2018-09-29 11:44:07,533 [DEBUG   ] Start to compute pvals..................................
+LINE 586 : 2018-09-29 11:44:07,552 [DEBUG   ] Compute normalized enrichment score and normalized esnull
+LINE 602 : 2018-09-29 11:44:07,561 [DEBUG   ] start to compute fdrs..................................
+LINE 636 : 2018-09-29 11:44:07,589 [DEBUG   ] Statistical testing finished.............................
+LINE 653 : 2018-09-29 11:44:07,759 [INFO    ] Plotting Sample: s0_1_H52JYCCXY_L2 
+
+LINE 1343: 2018-09-29 11:44:08,971 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 658 : 2018-09-29 11:44:09,018 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 1343: 2018-09-29 11:44:09,039 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 1343: 2018-09-29 11:44:09,248 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=16.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 710 : 2018-09-29 11:44:09,250 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:09,251 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:09,599 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:09,651 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:09,651 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:09,941 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:10,017 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:10,017 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:10,256 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:10,306 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:10,306 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:10,569 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:10,626 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:10,626 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:10,794 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:10,832 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:10,832 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:11,055 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:11,112 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:11,112 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:11,287 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:11,322 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:11,323 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:11,537 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:11,600 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:11,600 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:11,768 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:11,811 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:11,811 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:12,024 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:12,088 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:12,088 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:12,260 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:12,304 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:12,305 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:12,517 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:12,578 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:12,578 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:12,759 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:12,797 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:12,797 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:13,022 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:13,084 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:13,084 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:13,261 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:13,301 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:13,301 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:13,529 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:13,592 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:13,592 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:13,771 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:13,812 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:13,813 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:14,037 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:14,106 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:14,106 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:14,278 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:14,324 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:14,324 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:14,549 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:14,613 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:14,613 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:14,785 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:14,826 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:14,826 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:15,132 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:15,310 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:15,310 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:15,546 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:15,614 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:15,614 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:15,836 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:15,895 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:15,895 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:16,062 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:16,099 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:16,099 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:16,316 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:16,380 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:16,380 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:16,558 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:16,600 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:16,600 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:16,831 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:16,897 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:16,897 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:17,076 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:17,118 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:17,118 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:17,333 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:17,389 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:17,389 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:17,561 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:17,597 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:17,597 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:17,824 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:17,886 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:17,886 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:18,055 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:18,095 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:18,095 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:18,308 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:18,370 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:18,370 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:18,539 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:18,579 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:18,579 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:18,797 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:18,862 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:18,862 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:19,032 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:19,073 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:19,073 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:19,299 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:19,361 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:19,361 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:44:19,538 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:44:19,577 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:44:19,578 [DEBUG   ] Writing TrueType font.
+LINE 630 : 2018-09-29 11:44:19,738 [INFO    ] Run Sample: s0_2_H52JYCCXY_L2 
+LINE 456 : 2018-09-29 11:44:19,754 [DEBUG   ] Start to compute enrichment scores......................
+LINE 480 : 2018-09-29 11:44:19,755 [DEBUG   ] Start to compute es and esnulls........................
+LINE 564 : 2018-09-29 11:53:05,502 [DEBUG   ] Start to compute pvals..................................
+LINE 586 : 2018-09-29 11:53:05,521 [DEBUG   ] Compute normalized enrichment score and normalized esnull
+LINE 602 : 2018-09-29 11:53:05,528 [DEBUG   ] start to compute fdrs..................................
+LINE 636 : 2018-09-29 11:53:05,555 [DEBUG   ] Statistical testing finished.............................
+LINE 653 : 2018-09-29 11:53:05,581 [INFO    ] Plotting Sample: s0_2_H52JYCCXY_L2 
+
+LINE 1343: 2018-09-29 11:53:05,913 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 658 : 2018-09-29 11:53:05,918 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 1343: 2018-09-29 11:53:05,928 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 1343: 2018-09-29 11:53:05,992 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=16.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 710 : 2018-09-29 11:53:05,993 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:05,994 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:06,164 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:06,204 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:06,204 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:06,418 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:06,474 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:06,474 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:06,646 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:06,682 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:06,682 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:06,938 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:07,001 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:07,001 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:07,171 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:07,214 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:07,214 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:07,430 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:07,494 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:07,494 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:07,666 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:07,710 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:07,711 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:07,935 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:07,995 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:07,996 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:08,167 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:08,205 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:08,205 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:08,419 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:08,479 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:08,480 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:08,651 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:08,691 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:08,692 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:08,909 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:08,969 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:08,969 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:09,139 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:09,181 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:09,181 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:09,396 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:09,463 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:09,463 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:09,634 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:09,681 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:09,681 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:09,898 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:09,956 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:09,956 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:10,125 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:10,163 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:10,163 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:10,377 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:10,440 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:10,440 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:10,610 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:10,650 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:10,650 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:10,868 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:10,930 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:10,930 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:11,100 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:11,138 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:11,138 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:11,353 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:11,464 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:11,464 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:11,632 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:11,673 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:11,673 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:11,889 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:11,949 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:11,949 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:12,122 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:12,159 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:12,159 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:12,392 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:12,461 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:12,461 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:12,646 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:12,695 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:12,696 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:12,930 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:12,991 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:12,991 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:13,171 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:13,209 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:13,209 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:13,437 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:13,503 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:13,503 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:13,682 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:13,723 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:13,723 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:13,939 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:13,999 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:13,999 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:14,169 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:14,212 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:14,212 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:14,432 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:14,521 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:14,521 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:14,692 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:14,756 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:14,756 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:14,972 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:15,038 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:15,038 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:15,208 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:15,250 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:15,250 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:15,471 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:15,529 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:15,529 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 11:53:15,700 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 11:53:15,738 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 11:53:15,738 [DEBUG   ] Writing TrueType font.
+LINE 630 : 2018-09-29 11:53:15,850 [INFO    ] Run Sample: s0_3_H52JYCCXY_L2 
+LINE 456 : 2018-09-29 11:53:15,868 [DEBUG   ] Start to compute enrichment scores......................
+LINE 480 : 2018-09-29 11:53:15,868 [DEBUG   ] Start to compute es and esnulls........................
+LINE 564 : 2018-09-29 12:01:57,716 [DEBUG   ] Start to compute pvals..................................
+LINE 586 : 2018-09-29 12:01:57,734 [DEBUG   ] Compute normalized enrichment score and normalized esnull
+LINE 602 : 2018-09-29 12:01:57,742 [DEBUG   ] start to compute fdrs..................................
+LINE 636 : 2018-09-29 12:01:57,771 [DEBUG   ] Statistical testing finished.............................
+LINE 653 : 2018-09-29 12:01:57,808 [INFO    ] Plotting Sample: s0_3_H52JYCCXY_L2 
+
+LINE 1343: 2018-09-29 12:01:58,160 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 658 : 2018-09-29 12:01:58,167 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 1343: 2018-09-29 12:01:58,179 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 1343: 2018-09-29 12:01:58,265 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=16.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 710 : 2018-09-29 12:01:58,266 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:01:58,267 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:01:58,500 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:01:58,542 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:01:58,542 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:01:58,756 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:01:58,814 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:01:58,814 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:01:58,989 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:01:59,028 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:01:59,028 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:01:59,280 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:01:59,338 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:01:59,338 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:01:59,508 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:01:59,546 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:01:59,546 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:01:59,758 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:01:59,814 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:01:59,814 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:01:59,985 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:00,021 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:00,021 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:00,239 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:00,303 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:00,303 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:00,471 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:00,515 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:00,515 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:00,731 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:00,795 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:00,795 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:00,964 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:01,008 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:01,008 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:01,226 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:01,285 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:01,285 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:01,455 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:01,494 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:01,494 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:01,708 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:01,768 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:01,769 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:01,937 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:01,978 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:01,978 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:02,195 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:02,255 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:02,255 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:02,427 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:02,467 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:02,468 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:02,681 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:02,751 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:02,752 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:02,920 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:02,966 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:02,966 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:03,192 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:03,257 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:03,257 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:03,431 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:03,471 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:03,472 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:03,748 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:03,839 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:03,839 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:04,016 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:04,082 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:04,082 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:04,296 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:04,356 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:04,356 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:04,537 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:04,575 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:04,575 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:04,802 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:04,870 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:04,870 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:05,048 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:05,092 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:05,092 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:05,309 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:05,371 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:05,371 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:05,545 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:05,585 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:05,586 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:05,799 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:05,856 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:05,856 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:06,024 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:06,060 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:06,060 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:06,274 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:06,335 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:06,335 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:06,506 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:06,549 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:06,549 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:06,764 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:06,825 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:06,826 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:06,994 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:07,034 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:07,034 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:07,250 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:07,312 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:07,312 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:07,484 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:07,526 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:07,526 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:07,742 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:07,803 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:07,803 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:02:07,972 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:02:08,010 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:02:08,010 [DEBUG   ] Writing TrueType font.
+LINE 630 : 2018-09-29 12:02:08,087 [INFO    ] Run Sample: s8_1_H52JYCCXY_L2 
+LINE 456 : 2018-09-29 12:02:08,101 [DEBUG   ] Start to compute enrichment scores......................
+LINE 480 : 2018-09-29 12:02:08,101 [DEBUG   ] Start to compute es and esnulls........................
+LINE 564 : 2018-09-29 12:10:54,111 [DEBUG   ] Start to compute pvals..................................
+LINE 586 : 2018-09-29 12:10:54,130 [DEBUG   ] Compute normalized enrichment score and normalized esnull
+LINE 602 : 2018-09-29 12:10:54,139 [DEBUG   ] start to compute fdrs..................................
+LINE 636 : 2018-09-29 12:10:54,168 [DEBUG   ] Statistical testing finished.............................
+LINE 653 : 2018-09-29 12:10:54,204 [INFO    ] Plotting Sample: s8_1_H52JYCCXY_L2 
+
+LINE 1343: 2018-09-29 12:10:54,555 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 658 : 2018-09-29 12:10:54,561 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 1343: 2018-09-29 12:10:54,574 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 1343: 2018-09-29 12:10:54,659 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=16.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 710 : 2018-09-29 12:10:54,660 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:54,660 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:54,893 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:54,934 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:54,934 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:55,150 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:55,209 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:55,209 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:55,422 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:55,460 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:55,461 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:55,677 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:55,737 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:55,737 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:55,906 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:55,944 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:55,944 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:56,157 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:56,213 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:56,213 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:56,385 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:56,420 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:56,421 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:56,637 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:56,702 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:56,702 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:56,870 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:56,913 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:56,913 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:57,129 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:57,193 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:57,193 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:57,368 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:57,412 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:57,412 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:57,628 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:57,688 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:57,688 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:57,859 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:57,897 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:57,897 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:58,112 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:58,173 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:58,173 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:58,343 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:58,384 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:58,384 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:58,599 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:58,660 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:58,660 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:58,870 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:58,929 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:58,929 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:59,219 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:59,311 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:59,311 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:59,518 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:59,564 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:59,564 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:10:59,789 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:10:59,851 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:10:59,851 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:00,026 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:00,067 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:00,067 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:00,352 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:00,442 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:00,442 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:00,613 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:00,678 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:00,678 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:00,917 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:00,979 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:00,979 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:01,154 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:01,192 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:01,192 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:01,410 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:01,477 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:01,477 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:01,653 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:01,696 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:01,696 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:01,930 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:02,001 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:02,001 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:02,182 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:02,225 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:02,225 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:02,447 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:02,505 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:02,505 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:02,683 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:02,720 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:02,720 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:02,953 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:03,021 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:03,021 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:03,210 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:03,251 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:03,251 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:03,486 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:03,553 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:03,553 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:03,734 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:03,775 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:03,775 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:03,996 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:04,060 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:04,060 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:04,236 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:04,279 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:04,279 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:04,495 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:04,555 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:04,555 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:11:04,733 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:11:04,771 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:11:04,771 [DEBUG   ] Writing TrueType font.
+LINE 630 : 2018-09-29 12:11:04,925 [INFO    ] Run Sample: s8_2_H52JYCCXY_L1 
+LINE 456 : 2018-09-29 12:11:04,940 [DEBUG   ] Start to compute enrichment scores......................
+LINE 480 : 2018-09-29 12:11:04,940 [DEBUG   ] Start to compute es and esnulls........................
+LINE 564 : 2018-09-29 12:19:44,809 [DEBUG   ] Start to compute pvals..................................
+LINE 586 : 2018-09-29 12:19:44,829 [DEBUG   ] Compute normalized enrichment score and normalized esnull
+LINE 602 : 2018-09-29 12:19:44,840 [DEBUG   ] start to compute fdrs..................................
+LINE 636 : 2018-09-29 12:19:44,870 [DEBUG   ] Statistical testing finished.............................
+LINE 653 : 2018-09-29 12:19:44,913 [INFO    ] Plotting Sample: s8_2_H52JYCCXY_L1 
+
+LINE 1343: 2018-09-29 12:19:45,289 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 658 : 2018-09-29 12:19:45,295 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 1343: 2018-09-29 12:19:45,308 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 1343: 2018-09-29 12:19:45,394 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=16.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 710 : 2018-09-29 12:19:45,395 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:45,396 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:45,629 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:45,677 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:45,677 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:45,890 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:45,992 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:45,993 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:46,163 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:46,202 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:46,202 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:46,418 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:46,474 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:46,474 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:46,645 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:46,681 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:46,681 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:46,896 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:46,959 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:46,959 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:47,132 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:47,177 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:47,177 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:47,394 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:47,458 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:47,458 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:47,629 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:47,673 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:47,673 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:47,889 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:47,948 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:47,948 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:48,122 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:48,161 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:48,161 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:48,377 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:48,439 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:48,439 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:48,612 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:48,652 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:48,652 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:48,867 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:48,929 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:48,929 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:49,101 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:49,142 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:49,142 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:49,356 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:49,415 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:49,415 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:49,586 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:49,625 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:49,625 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:49,840 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:49,897 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:49,897 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:50,064 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:50,100 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:50,100 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:50,319 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:50,381 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:50,381 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:50,551 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:50,592 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:50,592 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:50,863 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:50,951 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:50,951 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:51,138 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:51,204 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:51,204 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:51,421 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:51,483 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:51,483 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:51,651 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:51,689 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:51,689 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:51,905 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:51,968 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:51,968 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:52,135 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:52,177 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:52,177 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:52,396 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:52,461 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:52,461 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:52,630 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:52,673 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:52,673 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:52,887 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:52,944 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:52,944 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:53,114 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:53,150 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:53,150 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:53,375 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:53,443 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:53,444 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:53,612 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:53,652 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:53,652 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:53,878 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:53,948 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:53,949 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:54,121 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:54,168 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:54,168 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:54,382 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:54,442 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:54,442 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:54,615 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:54,654 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:54,655 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:54,868 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:54,930 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:54,930 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:19:55,099 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:19:55,139 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:19:55,139 [DEBUG   ] Writing TrueType font.
+LINE 630 : 2018-09-29 12:19:55,203 [INFO    ] Run Sample: s8_3_H52JYCCXY_L1 
+LINE 456 : 2018-09-29 12:19:55,218 [DEBUG   ] Start to compute enrichment scores......................
+LINE 480 : 2018-09-29 12:19:55,219 [DEBUG   ] Start to compute es and esnulls........................
+LINE 564 : 2018-09-29 12:28:38,168 [DEBUG   ] Start to compute pvals..................................
+LINE 586 : 2018-09-29 12:28:38,188 [DEBUG   ] Compute normalized enrichment score and normalized esnull
+LINE 602 : 2018-09-29 12:28:38,197 [DEBUG   ] start to compute fdrs..................................
+LINE 636 : 2018-09-29 12:28:38,226 [DEBUG   ] Statistical testing finished.............................
+LINE 653 : 2018-09-29 12:28:38,274 [INFO    ] Plotting Sample: s8_3_H52JYCCXY_L1 
+
+LINE 1343: 2018-09-29 12:28:38,640 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 658 : 2018-09-29 12:28:38,646 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 1343: 2018-09-29 12:28:38,659 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 1343: 2018-09-29 12:28:38,746 [DEBUG   ] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=16.0 to DejaVu Sans ('/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LINE 710 : 2018-09-29 12:28:38,747 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:38,748 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:38,979 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:39,032 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:39,032 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:39,287 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:39,347 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:39,347 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:39,516 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:39,554 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:39,554 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:39,768 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:39,824 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:39,824 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:39,992 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:40,028 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:40,028 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:40,242 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:40,305 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:40,305 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:40,479 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:40,525 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:40,525 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:40,740 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:40,804 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:40,804 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:40,972 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:41,016 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:41,016 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:41,230 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:41,289 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:41,289 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:41,463 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:41,502 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:41,502 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:41,716 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:41,778 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:41,778 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:41,945 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:41,985 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:41,985 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:42,199 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:42,260 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:42,260 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:42,430 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:42,472 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:42,472 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:42,689 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:42,756 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:42,756 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:42,923 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:42,970 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:42,970 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:43,184 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:43,246 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:43,247 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:43,418 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:43,459 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:43,459 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:43,683 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:43,769 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:43,769 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:43,941 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:44,053 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:44,054 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:44,267 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:44,327 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:44,327 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:44,495 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:44,533 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:44,533 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:44,751 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:44,813 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:44,813 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:44,982 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:45,023 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:45,024 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:45,249 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:45,313 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:45,314 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:45,483 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:45,525 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:45,525 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:45,754 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:45,811 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:45,811 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:45,980 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:46,016 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:46,016 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:46,229 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:46,290 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:46,290 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:46,461 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:46,503 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:46,503 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:46,728 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:46,787 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:46,787 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:46,954 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:46,992 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:46,992 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:47,225 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:47,286 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:47,286 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:47,454 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:47,495 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:47,495 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:47,719 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:47,790 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:47,790 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:47,964 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:48,007 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:48,007 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:48,232 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:48,296 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:48,296 [DEBUG   ] Writing TrueType font.
+LINE 658 : 2018-09-29 12:28:48,464 [DEBUG   ] Assigning font /b'F1' = '/lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+LINE 710 : 2018-09-29 12:28:48,506 [DEBUG   ] Embedding font /lustre/rdi/user/licq/software/Anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+LINE 717 : 2018-09-29 12:28:48,506 [DEBUG   ] Writing TrueType font.
+LINE 727 : 2018-09-29 12:28:48,614 [INFO    ] Congratulations. GSEApy run successfully................
+
